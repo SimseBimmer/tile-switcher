@@ -1,9 +1,15 @@
 /* VÆLG DIN FAVORIT */
+
+h1 {
+  padding: 0 40px;
+}
 #favoriteParent {
+  width: 60%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   column-gap: 5px;
+  row-gap: 0px;
   padding: 0 40px 40px 40px;
 }
 
