@@ -4,7 +4,7 @@ h1 {
   padding: 0 40px;
 }
 #favoriteParent {
-  width: 60%;
+  width: 80%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
